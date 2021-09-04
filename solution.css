@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.h1 {
+    color:aquamarine;
+    text-align: center;
+    
+}
+.pink {
+    box-sizing: border-box;
+    padding: 7px;
+    background-color: pink;
+    margin: 7px;
+
+}
+.blue {
+    box-sizing: border-box;
+    padding: 7px;
+    background-color: blue;
+    margin: 7px;
+}
+.red {
+    box-sizing: border-box;
+    padding: 7px;
+    background-color: red;
+    margin: 7px;
+}
+h2 {
+    display: flex;
+    position: ;
+    text-align: inherit;
+}
